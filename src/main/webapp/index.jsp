@@ -24,5 +24,6 @@
     <p>Mijn gemiddelde score is: ...</p>
 
 </main>
+2022 Thomas Mergan. Alle rechten voorbehouden
 </body>
 </html>

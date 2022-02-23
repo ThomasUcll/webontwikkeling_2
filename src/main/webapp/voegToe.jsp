@@ -42,5 +42,6 @@
     </form>
 
 </main>
+2022 Thomas Mergan. Alle rechten voorbehouden
 </body>
 </html>
