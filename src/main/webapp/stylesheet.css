@@ -1,0 +1,89 @@
+body {
+    background-color: rgb(237, 209, 147);
+    font-family: "trebuchet ms", sans-serif;
+    font-size: x-small;
+    text-align: center;
+
+}
+
+main {
+    padding: 10px;
+    box-shadow: 2px 2px 5px #999;
+    border: 3px solid black;
+    border-radius: 1em;
+    background-color: rgb(233, 240, 205);
+    max-width: 50em; /* op een te breed scherm is de breedte van de website ingeperkt tot x keer M */
+    margin: auto;
+    font-size: medium;
+    text-align: left;
+}
+
+
+/*CSS voor de header*/
+table th {
+    text-align: left;
+
+}
+
+nav{
+    margin: 0;
+}
+
+nav ul {
+    background-color: rgb(213, 227, 155);
+    text-align: left;
+    border: 3px solid black;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    font-size: 2rem;
+    margin: 0;
+    padding: 1rem;
+    border-right: 3px solid black;
+    text-align: center;
+}
+
+nav ul li.hier {
+    list-style: none;
+    display: inline-block;
+    font-size: 2rem;
+    margin: 0;
+    padding: 1rem;
+    border-right: 3px solid black;
+    text-align: center;
+    background-color: #d9d9d9;
+}
+
+
+nav ul li a{
+    color: rgb(0, 0, 0);/*De kleur als je niet op die pagina bent*/
+}
+
+
+.bovenkant th{
+    background-color: black;
+    color: white;
+    text-align: center;
+
+}
+
+
+
+table{
+    margin-top: 1em;
+    flex: available;
+}
+
+table, tr{
+
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
