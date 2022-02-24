@@ -64,6 +64,8 @@ nav ul li a{
 }
 
 
+
+
 .bovenkant th{
     background-color: black;
     color: white;
@@ -78,12 +80,8 @@ table{
     flex: available;
 }
 
-table, tr{
-
-}
 
 table, th, td{
     border: 1px solid black;
     border-collapse: collapse;
 }
-
